@@ -1,4 +1,5 @@
 ﻿Public Class Form1
+<<<<<<< HEAD
 
     Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
         Me.Close()
@@ -22,4 +23,7 @@
             in_file.Close()
         End If
     End Sub
+=======
+
+>>>>>>> main
 End Class
